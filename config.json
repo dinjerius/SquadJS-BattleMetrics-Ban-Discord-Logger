@@ -1,0 +1,8 @@
+{
+        "plugin": "BattleMetricsLogger",
+        "enabled": true,
+        "bmClient": "BattleMetrics",
+        "logChannelID": "discord channel id",
+        "banListName": "banlistname",
+        "checkInterval": 60000
+}
