@@ -39,10 +39,13 @@ Add the following to your `config.json`.
   "checkInterval": 60000
 }
 ```
+### 2. Upload Plugin
+Add the `BattleMetricsLogger.js` file to `SquadJS/squad-server/plugins/`.
 
-🛠️ Usage
-Start SquadJS: Once configured, start SquadJS.
-Discord Logs: Whenever a new ban is detected, the following message will be sent to the Discord channel:
+
+## 🛠️ Usage
+- Start SquadJS: Once configured, start SquadJS.
+- Discord Logs: Whenever a new ban is detected, the following message will be sent to the Discord channel:
 
 ```
 🛑 New Ban Detected
@@ -54,13 +57,13 @@ Ban Details: [BattleMetrics Ban Link]
 Issued By: [Admin Name or ID]
 ```
 
-💻 Development and Contributions
+## 💻 Development and Contributions
 If you'd like to contribute to this project, feel free to fork it and submit a pull request. Before doing so, please ensure:
 
-The code adheres to SquadJS standards.
-The BattleMetrics API is used correctly.
+- The code adheres to SquadJS standards.
+- The BattleMetrics API is used correctly.
 
-🌐 Support
-If you have any questions or encounter issues, feel free to open an issue on this repository.
-Discord: dinjer
+## 🌐 Support
+- If you have any questions or encounter issues, feel free to open an issue on this repository.
+- Discord: dinjer
 
